@@ -1,0 +1,19 @@
+{
+  "name": "stable-address-deployer",
+  "version": "0.1.0",
+  "description": "Utils which allowes to deploy smart contract on stable address in any network which is using EVM without knowing private key. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "deploy",
+    "smart-contract"
+  ],
+  "author": "Jaro Satkevic <jaro@blockvis.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "web3": "^1.0.0-beta.35"
+  }
+}
